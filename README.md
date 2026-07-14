@@ -4,6 +4,14 @@
 
 ---
 
+## Project Showcase
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bibythayyil/bibythayyil/main/assets/sleep_stress_lifestyle_dashboard.png" width="900">
+</p>
+
+---
+
 ## Project Overview
 
 Wearable devices continuously generate large volumes of personal health data — yet most users never analyze it beyond their daily summary screen. This project performs a comprehensive EDA on six months of daily wearable health data from 300 users, investigating how everyday behaviors and physiological signals relate to sleep quality and stress.
